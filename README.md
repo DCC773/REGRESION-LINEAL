@@ -11,9 +11,8 @@ Se utilizan **datos reales del Banco Central de Reserva del Perú (BCRP)** para 
 ## 2. Objetivo
 Aplicar el método de **gradiente descendente** para estimar los parámetros del siguiente modelo lineal de consumo:
 
-\[
-C = c_0 + c \cdot YD
-\]
+C = c₀ + c · YD
+
 
 donde:
 
