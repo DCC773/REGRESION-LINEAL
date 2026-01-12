@@ -92,11 +92,5 @@ Una propensión marginal a consumir de **0.996** sugiere que la mayor parte del 
 
 ---
 
-## ▶️ Uso
-Para reproducir el análisis:
 
-1. Clona el repositorio.
-2. Abre el cuaderno de **Jupyter Notebook** o **Google Colab**.
-3. Ejecuta las celdas en orden para replicar la estimación y las visualizaciones.
 
----
